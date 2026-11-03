@@ -587,3 +587,40 @@ TICKET-BOOKING-WEBSITE-/
 ├── requirements.txt
 ├── db.sqlite3
 └── cinebook_final_project.zip
+<div align="center">
+
+# 🎬 CineBook
+
+### A Full-Stack Movie Ticket Booking System
+
+**Discover Movies • Select Seats • Book Tickets • Manage Reservations**
+
+<img src="./homepage-featured.png" alt="CineBook Homepage" width="100%">
+
+</div>
+
+---
+
+## 🖼️ Application Screenshots
+
+### 1. CineBook Homepage
+
+<img src="./homepage-featured.png" alt="CineBook Homepage" width="100%">
+
+### 2. Now Showing Movies
+
+<img src="./now-showing.png" alt="Now Showing Movies" width="100%">
+
+### 3. Coming Soon Movies
+
+<img src="./coming-soon.png" alt="Coming Soon Movies" width="100%"> 
+TICKET-BOOKING-WEBSITE-/
+│
+├── README.md
+├── homepage-featured.png
+├── now-showing.png
+├── coming-soon.png
+├── manage.py
+├── requirements.txt
+├── db.sqlite3
+└── cinebook_final_project.zip
