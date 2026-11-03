@@ -556,3 +556,34 @@ This project was developed for academic and learning purposes. Add a license fil
 **Made with Python, Django, SQLite, HTML, CSS, and JavaScript.**
 
 </div>
+<div align="center">
+
+# 🎬 CineBook
+
+### A Full-Stack Movie Ticket Booking System
+
+**Discover movies · Select seats · Book tickets · Manage reservations**
+
+<img src="homepage-featured.png" alt="CineBook Homepage" width="100%">
+
+</div>
+## 🖼️ Application Screenshots
+
+### 1. CineBook Homepage
+![CineBook Homepage](homepage-featured.png)
+
+### 2. Now Showing Movies
+![Now Showing Movies](now-showing.png)
+
+### 3. Coming Soon Movies
+![Coming Soon Movies](coming-soon.png)
+TICKET-BOOKING-WEBSITE-/
+│
+├── README.md
+├── homepage-featured.png
+├── now-showing.png
+├── coming-soon.png
+├── manage.py
+├── requirements.txt
+├── db.sqlite3
+└── cinebook_final_project.zip
